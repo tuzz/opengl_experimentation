@@ -16,15 +16,15 @@ A collection of OpenGL animations. Some of which were built as part of a univers
 * Resizing the window maintains aspect ratio
 * Makes use to OpenGL's vertex and color arrays for more efficient rendering
 
-# Sine Cosine
+## Sine Cosine
 
 * Demonstration of a nice animation using the sine and cosine functions
 
-# Sierpinski Gasket
+## Sierpinski Gasket
 
 * Renders the Sierpinski Gasket in 2D.
 * Uses the random vertex method of generation.
 
-# Primitives
+## Primitives
 
 * Renders different shape primitives depending on which key is pressed
